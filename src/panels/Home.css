@@ -3,7 +3,7 @@
     padding: 0;
     font-size: 20px;
 }
-.BeginGroup {
+.ads {
     display: flex;
     justify-content: center;
 }
@@ -41,4 +41,7 @@ button {
     border: none;
     border-radius: 10px;
     margin-bottom: 93px;
+}
+.Lazyk {
+    
 }

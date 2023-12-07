@@ -30,7 +30,7 @@ const App = () => {
 					<SplitLayout >
 						<SplitCol>
 							<View activePanel={activePanel}>
-								<Home id='Home' fetchedUser={fetchedUser} go={go} />
+								<Home id='home' fetchedUser={fetchedUser} go={go} />
 							</View>
 						</SplitCol>
 					</SplitLayout>
