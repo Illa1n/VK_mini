@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+.ads {
+    display: flex;
+    justify-content: center;
+}
+.BeginSection {
+    width: 360px;
+    height: 800px;
+    background-color: #ADB8FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BeginWhiteDiv {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 320px;
+    height: 760px;
+    background-color: #E6E9FF;
+    border-radius: 10px;
+}
+h1 {
+    width: 274px;
+    height: 51px;
+    text-align: center;
+    margin-top: 158px;
+    margin-bottom: 36px;
+    color: #262B4D;
+    font-family: a;
+}
+button {
+    width: 172px;
+    height: 44px;
+    background-color: #5965B3;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 93px;
+}
+.Lazyk {
+    
+}

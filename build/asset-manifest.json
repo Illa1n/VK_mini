@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48991316.css",
+    "main.js": "/static/js/main.86236d52.js",
+    "static/media/Lazyk.png": "/static/media/Lazyk.e8a49aeadc762357fc68.png",
+    "index.html": "/index.html",
+    "main.48991316.css.map": "/static/css/main.48991316.css.map",
+    "main.86236d52.js.map": "/static/js/main.86236d52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48991316.css",
+    "static/js/main.86236d52.js"
+  ]
+}
