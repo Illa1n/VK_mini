@@ -1,0 +1,13 @@
+.ads {
+    display: flex;
+    justify-content: center;
+}
+.Choice-buttons {
+    padding-top: 290px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 187px;
+    height: 173px;
+}

@@ -1,21 +1,21 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import "./Home.css";
+import "../Origin.css"
 import Lazyk from '../img/Lazyk.png'
 
-import { Panel, Header, Group, Cell, Avatar } from '@vkontakte/vkui';
+import { Panel, Group } from '@vkontakte/vkui';
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
 
 	<Group className='ads'>
-		<section className='BeginSection'>
-			<div className='BeginWhiteDiv'>
+		<section className='OriginSection'>
+			<div className='OriginWhiteDiv'>
 				<h1> Добро пожаловать!</h1>
-				<button> Начать </button>
+				<button className='Begin-button' onClick={go} data-to="choice"> Начать </button>
 				<img className='Lazyk' src={Lazyk} alt='Lazyk'></img>
 			</div>
-			
 		</section>
 	</Group>
 		
